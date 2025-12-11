@@ -1,5 +1,5 @@
 {
-  "name": "sᴛᴀʀ xᴅ",
+  "name": "BILLION VOICE DJ",
   "description": "This is a bot for managing group commands and automating tasks.",
   "repository": "https://github.com/XdKing2/star-xd",
   "logo": "https://i.ibb.co/bjTC9sF5/malvin-xd.jpg",
@@ -8,32 +8,32 @@
   "env": {
     "BOT_NAME": {
       "description": "Name of your bot",
-      "value": "sᴛᴀʀ xᴅ",
+      "value": "THE BILLION VOICE BOT",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Name of the bot owner",
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+      "value": "BILLION VOICE DJ",
       "required": true
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number with country code",
-      "value": "1234567890",
+      "value": "255675104490",
       "required": true
     },
     "SESSION_ID": {
       "description": "Session ID for the bot",
-      "value": "add ur session id here",
+      "value": "starcore~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0tISWZsWkdnS0haRnoxQ3RlYitwbFhsaTM0NUZNelZKNmIzWHc1UkxIWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWkhOenA5dE9UN0V3L1BRWlNUTHBOZ09TamtuZ2tJblczL2ZSQVF3bmZWbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPRURobVBTcUpsOWZTcThGdDRsczJ2Mm1RQnk5U3h6QW0zK0NyQVhnakhRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJwNG92MXJybVd1czZxTFlHejFlWjlYWjJqdkpFMVRHZGxFWlpsWDhFdFVBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlNUUQyaC9BMDNvbVFkSEtWUllFV3JaUU9lR29raWpmZjY5cEVvb1FWVU09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkcyV3Fjd2w0SWVVMlZieHVRNjVwNytIMkdRZHg2b2NXaHE1T3A2NFVzM1E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUVBjUlVPVnRaZWZ2cmRSSVVwZXRnMG01SkZZQVJFZ3lERGFjMWh0d29Wbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUpIbmFXajJuTVZIR3Mrd3FHVmp1Y09nbHplKy8yOFB1d3NxTFBiazNIRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNFTTN5UkZ1OUxIUkJ6UWFxdHRLa2h4TUVWdWhJRlhBVVpNZldESlBjejh1VnlFVU44NEZTcjRSNVgwQ293akpMQmFmemNrbm5oVklBWThRcDE1UUJnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzgsImFkdlNlY3JldEtleSI6IkErNVk3Tmh6QjIrUEVQdVJCNzNzb1hIMUVjemgveWV0T0ZGNUplUXlzaVk9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjU1NzY4NzY1OTIzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkE1OUVGMDg2NEYyMTc5MDIxNUE5NjIwNTBGQUU2NjMwIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NjU0NTYyNTh9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI1NTc2ODc2NTkyM0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJBNUNEMUE2MDNBQ0ExMkE4RTE2NjlFNzk0Q0RFQzM2NCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzY1NDU2MjYwfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTU3Njg3NjU5MjNAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiQTVCQTQzNkIxRjJGMTlBMjdCMTBEOEVGNkJFMEMyRTMifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc2NTQ1NjI2MH0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjU1NzY4NzY1OTIzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkE1NzZGNUI0RUE5MUFGRDg0OUQ1MDRCMEYzOEIxMURCIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NjU0NTYyNjB9XSwibmV4dFByZUtleUlkIjo4MTMsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjo4MTMsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sInJlZ2lzdGVyZWQiOnRydWUsInBhaXJpbmdDb2RlIjoiWVVQUkFERVYiLCJtZSI6eyJpZCI6IjI1NTc2ODc2NTkyMzoxQHMud2hhdHNhcHAubmV0IiwibmFtZSI6ImJpbGxpb252b2ljZSIsImxpZCI6IjEzOTEwNjE4OTM3MzUxOToxQGxpZCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUDcwL3ZRRkVQRHk2c2tHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiZ0pvbWQ4Y3ZXQUVrcW5SUDNuL0xyTlpMMDB6T0ErbWswQUJVNXJhNFFDQT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiRDljS1VWN2NneTg4Qy9kaTNndm5CNjdOUDVaOUNQRVh4UEdmUFFHWE9YNTh2S1ViemlISjZxbVBqN3dQMFZ1cFdLWmxFUUNxMFk2T0l1NDgvZVNLQ1E9PSIsImRldmljZVNpZ25hdHVyZSI6IlZXNENTRkZoejNwT2h5N3ZZbUY3a0J5TlZBK0dhOWRrblNPcm1Ed1IwVHpNNXl2ZzMvQlhvVDNCekI0RjNmZXcxMy9aeDNGazcrbGRuWUU5em9IQURnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU1NzY4NzY1OTIzOjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWUNhSm5mSEwxZ0JKS3AwVDk1L3k2eldTOU5NemdQcHBOQUFWT2EydUVBZyJ9fV0sInBsYXRmb3JtIjoic21iYSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FNSUFnZ0oifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzY1NDU2MjU2LCJsYXN0UHJvcEhhc2giOiJubTNCYiIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBT3ZXIn0=",
       "required": true
     },
     "TIMEZONE": {
       "description": "Your timezone",
-      "value": "Africa/Harare",
+      "value": "Africa/Nairobi",
       "required": true
     },
     "MODE": {
       "description": "Bot operation mode",
-      "value": "public",
+      "value": "private",
       "required": true
     },
     "GIPHY_API_KEY": {
